@@ -56,4 +56,4 @@ The engine produces structured finding codes and parameters. EN/RU presentation 
 
 ## Deliberately private
 
-Implementation files, deployment configuration, database migrations, internal endpoints, proprietary label collections and personal account data remain outside this showcase.
+Implementation and database migrations are available in [the public source repository](https://github.com/Niphridium/wallet-checker). Credentials, imported service datasets and personal account data remain private.
