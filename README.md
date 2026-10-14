@@ -6,7 +6,7 @@ Wallet Checker brings sanctions screening, on-chain signals and readable evidenc
 
 [Open the live demo](https://app-one-alpha-10.vercel.app/en) · [Architecture](ARCHITECTURE.md) · [Screenshots](SCREENSHOTS.md)
 
-This repository contains project documentation and screenshots. The application source code is private.
+This repository contains project documentation and screenshots. The application source code is publicly available: [Niphridium/wallet-checker](https://github.com/Niphridium/wallet-checker). Imported service datasets and personal account data are excluded.
 
 ## The problem
 
@@ -75,4 +75,4 @@ OpenSanctions is used under the applicable non-commercial terms in the current d
 
 Sources: [OFAC](https://ofac.treasury.gov/) · [OpenSanctions licensing](https://www.opensanctions.org/docs/commercial/exemption/) · [TronGrid](https://www.trongrid.io/).
 
-Documentation and screenshots are shared for portfolio review. No open-source license for the private application is granted.
+Documentation and screenshots are shared for portfolio review. Public source code is available for review; no open-source license is granted.
